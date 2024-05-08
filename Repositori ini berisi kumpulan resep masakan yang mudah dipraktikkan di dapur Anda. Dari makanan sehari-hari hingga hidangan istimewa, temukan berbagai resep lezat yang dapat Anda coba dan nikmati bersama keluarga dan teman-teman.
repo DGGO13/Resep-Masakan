@@ -1,0 +1,56 @@
+# Resep Masakan
+
+## Deskripsi
+Repositori ini berisi kumpulan resep masakan yang mudah dipraktikkan di dapur Anda. Dari makanan sehari-hari hingga hidangan istimewa, temukan berbagai resep lezat yang dapat Anda coba dan nikmati bersama keluarga dan teman-teman.
+
+## Cara Berkontribusi
+Jika Anda ingin berkontribusi dengan menambahkan resep baru atau mengubah yang sudah ada, ikuti langkah-langkah berikut:
+1. Fork repositori ini (klik tombol "Fork" di kanan atas halaman).
+2. Buat branch baru untuk fitur Anda (`git checkout -b tambah-resep`).
+3. Tambahkan atau ubah resep yang diinginkan.
+4. Commit perubahan Anda (`git commit -am 'Menambahkan resep Nama_Resep'`).
+5. Push ke branch Anda (`git push origin tambah-resep`).
+6. Buat pull request baru.
+
+## Daftar Resep
+
+### 1. Ayam Goreng
+
+**Bahan-bahan:**
+- 1 ekor ayam, potong menjadi bagian-bagian
+- 3 sendok makan kecap manis
+- 2 sendok makan kecap asin
+- 2 siung bawang putih, cincang halus
+- 1 sendok teh merica bubuk
+- Minyak goreng secukupnya untuk menggoreng
+
+**Langkah-langkah:**
+1. Campurkan ayam dengan kecap manis, kecap asin, bawang putih, dan merica. Biarkan meresap selama 1 jam.
+2. Panaskan minyak goreng dalam wajan.
+3. Goreng ayam dalam minyak panas hingga kecokelatan dan matang, angkat dan tiriskan.
+4. Ayam goreng siap disajikan.
+
+### 2. Nasi Goreng
+
+**Bahan-bahan:**
+- 2 piring nasi putih dingin
+- 2 telur, kocok lepas
+- 1 wortel, iris tipis
+- 1 bawang bombay, iris tipis
+- 2 siung bawang putih, cincang halus
+- 2 sendok makan kecap manis
+- 1 sendok makan saus tiram
+- Minyak goreng secukupnya untuk menumis
+
+**Langkah-langkah:**
+1. Panaskan minyak goreng dalam wajan.
+2. Tumis bawang putih dan bawang bombay hingga harum.
+3. Masukkan telur kocok, aduk hingga setengah matang.
+4. Tambahkan wortel, aduk hingga wortel agak lunak.
+5. Masukkan nasi putih, kecap manis, dan saus tiram. Aduk rata hingga nasi tercampur dengan baik.
+6. Masak hingga nasi matang dan terasa harum.
+7. Angkat dan sajikan nasi goreng panas.
+
+## Lisensi
+
+Repositori ini dilisensikan di bawah [Lisensi MIT](LICENSE).
